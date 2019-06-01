@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  arcgis.user.conference.2019:
+    image: arcgis.user.conference.2019
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
