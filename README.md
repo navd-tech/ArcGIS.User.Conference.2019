@@ -4,7 +4,7 @@ This is the presentation and demo that was held in the 27th Annual ArcGIS User C
 
 The presentation can be found here:
 
-"[GeoAI in the marinetime domain useing ArcGIS Notebooks](./GeoAI.ArcGIS.Notebooks.pdf)"
+"[GeoAI in the marinetime domain using ArcGIS Notebooks](./GeoAI.ArcGIS.Notebooks.pdf)"
 
 
 Business case of:
