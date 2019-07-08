@@ -6,9 +6,8 @@ The presentation can be found here:
 
 "[GeoAI in the marinetime domain using ArcGIS Notebooks](./GeoAI.ArcGIS.Notebooks.pdf)"
 
-
 Business case of:
- - Predicting tank oil spills in real-time.
- - Evaluate the oil spill in sea, using deep-learning.
- - Manage further actions that should be held. 
 
+- Predicting tank oil spills in real-time.
+- Evaluate the oil spill in sea, using deep-learning.
+- Manage further actions that should be held.
